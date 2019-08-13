@@ -71,7 +71,7 @@
   height: 250px;
   /* background: url(../img/bwPortait.jpg); */
   border-radius: 50%;
-  border: solid 3px #eece1a;
+  /* border: solid 3px #eece1a; */
 }
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);
